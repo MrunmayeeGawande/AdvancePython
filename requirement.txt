@@ -3,3 +3,4 @@ pandas
 matplotlib
 seaborn
 sci-kitlearn
+This will be finalized library which are going to use in my project
